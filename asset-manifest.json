@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deepakdeedar/monsters-rolodex/static/css/main.ae12d7cc.chunk.css",
+    "main.js": "/deepakdeedar/monsters-rolodex/static/js/main.5d54fe90.chunk.js",
+    "main.js.map": "/deepakdeedar/monsters-rolodex/static/js/main.5d54fe90.chunk.js.map",
+    "runtime-main.js": "/deepakdeedar/monsters-rolodex/static/js/runtime-main.870ba13b.js",
+    "runtime-main.js.map": "/deepakdeedar/monsters-rolodex/static/js/runtime-main.870ba13b.js.map",
+    "static/js/2.80a3d519.chunk.js": "/deepakdeedar/monsters-rolodex/static/js/2.80a3d519.chunk.js",
+    "static/js/2.80a3d519.chunk.js.map": "/deepakdeedar/monsters-rolodex/static/js/2.80a3d519.chunk.js.map",
+    "static/js/3.8a5726d2.chunk.js": "/deepakdeedar/monsters-rolodex/static/js/3.8a5726d2.chunk.js",
+    "static/js/3.8a5726d2.chunk.js.map": "/deepakdeedar/monsters-rolodex/static/js/3.8a5726d2.chunk.js.map",
+    "index.html": "/deepakdeedar/monsters-rolodex/index.html",
+    "static/css/main.ae12d7cc.chunk.css.map": "/deepakdeedar/monsters-rolodex/static/css/main.ae12d7cc.chunk.css.map",
+    "static/js/2.80a3d519.chunk.js.LICENSE.txt": "/deepakdeedar/monsters-rolodex/static/js/2.80a3d519.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.870ba13b.js",
+    "static/js/2.80a3d519.chunk.js",
+    "static/css/main.ae12d7cc.chunk.css",
+    "static/js/main.5d54fe90.chunk.js"
+  ]
+}
